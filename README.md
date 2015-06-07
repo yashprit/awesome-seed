@@ -9,3 +9,4 @@ curated list of various seed project
 - [React-Seed](https://github.com/badsyntax/react-seed) - Seed project for React apps using ES6 & webpack.
 
 ### Angular
+- [angular-seed](https://github.com/angular/angular-seed) - Seed project for angular apps.
