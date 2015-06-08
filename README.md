@@ -9,4 +9,5 @@ curated list of various seed project
 - [React-Seed](https://github.com/badsyntax/react-seed) - Seed project for React apps using ES6 & webpack.
 
 ### Angular
-- [angular-seed](https://github.com/angular/angular-seed) - Seed project for angular apps.
+- [angular/angular-seed](https://github.com/angular/angular-seed) - Seed project for angular apps.
+- [CleverStack/angular-seed](https://github.com/CleverStack/angular-seed) - The AngularJS based Modular Frontend for CleverStack, MEAN and so much more http://cleverstack.io
