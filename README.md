@@ -1,9 +1,11 @@
 # awesome-seed
 curated list of various seed project
 
+## Seed List
 - [React](#react)
 - [Angular](#angular)
 - [SystemJS](#systemjs)
+- [Electron](#electron)
 
 ### React
 - [React-Starter-Kit](https://github.com/kriasoft/react-starter-kit) - ReactJS / Flux Starter Kit - a skeleton for an isomorphic web application (SPA) built with Facebook's React.js library and powered by Flux architecture
@@ -16,3 +18,20 @@ curated list of various seed project
 
 ### SystemJS
 - [systemjs-seed](https://github.com/lookfirst/systemjs-seed) - SystemJS + ES6 + Angular + React
+
+### Electron
+- [electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) - Boilerplate to kickstart creating an app.
+- [generator-electron](https://github.com/sindresorhus/generator-electron) - Scaffold out an app boilerplate.
+- [electron-boilerplate](https://github.com/szwacz/electron-boilerplate) - Comprehensive boilerplate which even generates installers.
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Yashprit Singh](http://yashprit.com) has waived all copyright and related or neighboring rights to this work.
+>>>>>>> 8bca777ad2c0f0c14ac8f2289b4d9d2033c0a3c1
