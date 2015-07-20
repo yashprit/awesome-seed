@@ -11,6 +11,7 @@ curated list of various seed project
 - [React-Starter-Kit](https://github.com/kriasoft/react-starter-kit) - ReactJS / Flux Starter Kit - a skeleton for an isomorphic web application (SPA) built with Facebook's React.js library and powered by Flux architecture
 - [React-Seed](https://github.com/badsyntax/react-seed) - Seed project for React apps using ES6 & webpack.
 - [react-jest-gulp-jspm-seed](https://github.com/shidhincr/react-jest-gulp-jspm-seed) - Seed project for writing ReactJS components in TDD fashion. This seed uses Jest for unit testing, Gulp for building and JSPM as the browser package manager.
+- [react-isomorphic-seed](https://github.com/devmag-io/react-isomorphic-seed) - A seed project for creating Isomorphic apps using React and Flux architecture.
 
 ### Angular
 - [angular/angular-seed](https://github.com/angular/angular-seed) - Seed project for angular apps.
