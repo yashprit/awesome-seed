@@ -18,6 +18,7 @@ curated list of various seed project
 - [angular/angular-seed](https://github.com/angular/angular-seed) - Seed project for angular apps.
 - [CleverStack/angular-seed](https://github.com/CleverStack/angular-seed) - The AngularJS based Modular Frontend for CleverStack, MEAN and so much more http://cleverstack.io
 - [robertjchristian/angular-enterprise-seed](https://github.com/robertjchristian/angular-enterprise-seed) - Seed project for serious angular apps.
+- [seed](https://github.com/EpiphanyMachine/seed) - A seed project that runs on a node, compiles coffee-script and stylus, and includes angular, bootstrap, d3, express, grunt, and karma.
 
 ### SystemJS
 - [systemjs-seed](https://github.com/lookfirst/systemjs-seed) - SystemJS + ES6 + Angular + React
