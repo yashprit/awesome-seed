@@ -23,6 +23,7 @@ curated list of various seed project
 - [angularfire-seed](https://github.com/firebase/angularfire-seed) - Seed project for AngularFire apps
 - [ultimate-seed](https://github.com/pilwon/ultimate-seed) - The ultimate full-stack AngularJS + Node.js/Express seed (batteries included!) that makes web developers insanely productive.
 - [angular2-seed](https://github.com/mgechev/angular2-seed) - Seed project for Angular 2 apps
+- [angular-brunch-seed](https://github.com/scotch/angular-brunch-seed) - AngularJS + Brunch
 
 ### SystemJS
 - [systemjs-seed](https://github.com/lookfirst/systemjs-seed) - SystemJS + ES6 + Angular + React
