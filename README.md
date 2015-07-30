@@ -34,6 +34,8 @@ curated list of various seed project
 - [generator-electron](https://github.com/sindresorhus/generator-electron) - Scaffold out an app boilerplate.
 - [electron-boilerplate](https://github.com/szwacz/electron-boilerplate) - Comprehensive boilerplate which even generates installers.
 
+### Miscellaneous
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
