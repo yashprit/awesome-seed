@@ -35,6 +35,7 @@ curated list of various seed project
 - [electron-boilerplate](https://github.com/szwacz/electron-boilerplate) - Comprehensive boilerplate which even generates installers.
 
 ### Miscellaneous
+- [ionic-angular-cordova-seed](https://github.com/driftyco/ionic-angular-cordova-seed) - The perfect starting point for an Ionic project
 
 ## Contribute
 
