@@ -5,7 +5,8 @@ curated list of various seed project
 - [React](#react)
 - [Angular](#angular)
 - [SystemJS](#systemjs)
-- [Electron](#electron)
+- [Desktop](#desktop)
+- [Mobile](#mobile)
 - [Miscellaneous](#miscellaneous)
 
 ### React
@@ -29,12 +30,12 @@ curated list of various seed project
 ### SystemJS
 - [systemjs-seed](https://github.com/lookfirst/systemjs-seed) - SystemJS + ES6 + Angular + React
 
-### Electron
+### Desktop
 - [electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) - Boilerplate to kickstart creating an app.
 - [generator-electron](https://github.com/sindresorhus/generator-electron) - Scaffold out an app boilerplate.
 - [electron-boilerplate](https://github.com/szwacz/electron-boilerplate) - Comprehensive boilerplate which even generates installers.
 
-### Miscellaneous
+### Mobile
 - [ionic-angular-cordova-seed](https://github.com/driftyco/ionic-angular-cordova-seed) - The perfect starting point for an Ionic project
 
 ## Contribute
