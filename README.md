@@ -34,6 +34,7 @@ curated list of various seed project
 - [electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) - Boilerplate to kickstart creating an app.
 - [generator-electron](https://github.com/sindresorhus/generator-electron) - Scaffold out an app boilerplate.
 - [electron-boilerplate](https://github.com/szwacz/electron-boilerplate) - Comprehensive boilerplate which even generates installers.
+- [angular-desktop-app](https://github.com/jgrenon/angular-desktop-app) - This is a simple application skeleton to create desktop application using AngularJS
 
 ### Mobile
 - [ionic-angular-cordova-seed](https://github.com/driftyco/ionic-angular-cordova-seed) - The perfect starting point for an Ionic project
