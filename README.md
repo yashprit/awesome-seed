@@ -7,7 +7,6 @@ curated list of various seed project
 - [SystemJS](#systemjs)
 - [Desktop](#desktop)
 - [Mobile](#mobile)
-- [Miscellaneous](#miscellaneous)
 
 ### React
 - [React-Starter-Kit](https://github.com/kriasoft/react-starter-kit) - ReactJS / Flux Starter Kit - a skeleton for an isomorphic web application (SPA) built with Facebook's React.js library and powered by Flux architecture
