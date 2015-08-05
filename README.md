@@ -35,6 +35,7 @@ curated list of various seed project
 - [electron-boilerplate](https://github.com/szwacz/electron-boilerplate) - Comprehensive boilerplate which even generates installers.
 - [angular-desktop-app](https://github.com/jgrenon/angular-desktop-app) - This is a simple application skeleton to create desktop application using AngularJS
 - [node-webkit-hipster-seed](https://github.com/Anonyfox/node-webkit-hipster-seed) - Bootstrap a crossplatform Desktop Application using tools you probably never heard of.
+- [nw-sample-apps](https://github.com/zcbenz/nw-sample-apps) - Sample apps for node-webkit
 
 ### Mobile
 - [ionic-angular-cordova-seed](https://github.com/driftyco/ionic-angular-cordova-seed) - The perfect starting point for an Ionic project
