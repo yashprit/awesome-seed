@@ -41,6 +41,7 @@ curated list of various seed project
 - [ionic-angular-cordova-seed](https://github.com/driftyco/ionic-angular-cordova-seed) - The perfect starting point for an Ionic project
 - [angular-phonegap-seed](https://github.com/thewildpendulum/angular-phonegap-seed) - A barebones seed project for getting started with PhoneGap and AngularJS (with routing!)
 - [HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native) - Hacker News iOS and Android App - Made with React Native. 
+- [react-native-webpack-starter-kit](https://github.com/jhabdas/react-native-webpack-starter-kit) - A minimalist boilerplate for starting React Native apps with Webpack and ES6 using Babel.
 
 ## Contribute
 
