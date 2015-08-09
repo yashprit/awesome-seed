@@ -7,6 +7,7 @@ curated list of various seed project
 - [SystemJS](#systemjs)
 - [Desktop](#desktop)
 - [Mobile](#mobile)
+- [Relay](#relay)
 
 ### React
 - [React-Starter-Kit](https://github.com/kriasoft/react-starter-kit) - ReactJS / Flux Starter Kit - a skeleton for an isomorphic web application (SPA) built with Facebook's React.js library and powered by Flux architecture
@@ -44,6 +45,9 @@ curated list of various seed project
 - [react-native-webpack-starter-kit](https://github.com/jhabdas/react-native-webpack-starter-kit) - A minimalist boilerplate for starting React Native apps with Webpack and ES6 using Babel.
 - [react-native-es6-reflux](https://github.com/filp/react-native-es6-reflux) - Boilerplate for iOS app development with React Native, ES6 and Reflux
 - [react-native-tabbed](https://github.com/rxb/react-native-tabbed) - Base react native project for navigators nested within a tab bar + the option for a top-level modal.
+
+### Relay
+
 
 ## Contribute
 
