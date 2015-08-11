@@ -47,7 +47,9 @@ curated list of various seed project
 - [react-native-tabbed](https://github.com/rxb/react-native-tabbed) - Base react native project for navigators nested within a tab bar + the option for a top-level modal.
 
 ### Relay
-- [elay-starter-kit](https://github.com/relayjs/relay-starter-kit) - Barebones starting point for a Relay application.
+- [relay-starter-kit](https://github.com/relayjs/relay-starter-kit) - Barebones starting point for a Relay application.
+- [relay-skeleton](https://github.com/fortruce/relay-skeleton) - React, Relay, GraphQL project skeleton
+
 
 ## Contribute
 
