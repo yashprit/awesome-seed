@@ -45,6 +45,7 @@ curated list of various seed project
 - [react-native-webpack-starter-kit](https://github.com/jhabdas/react-native-webpack-starter-kit) - A minimalist boilerplate for starting React Native apps with Webpack and ES6 using Babel.
 - [react-native-es6-reflux](https://github.com/filp/react-native-es6-reflux) - Boilerplate for iOS app development with React Native, ES6 and Reflux
 - [react-native-tabbed](https://github.com/rxb/react-native-tabbed) - Base react native project for navigators nested within a tab bar + the option for a top-level modal.
+- [generator-react-webpack](https://github.com/newtriks/generator-react-webpack) - Yeoman generator for ReactJS and Webpack
 
 ### Relay
 - [relay-starter-kit](https://github.com/relayjs/relay-starter-kit) - Barebones starting point for a Relay application.
